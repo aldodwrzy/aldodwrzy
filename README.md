@@ -5,8 +5,8 @@
 ### About me:
 
 - 🌱 I’m currently learning HTML, CSS, & JavaScript
-- 👯 I’m looking to collaborate on any kind of web dev
-- 🤔 I’m looking for help with any kind of web dev
+- 👯 I’m looking to collaborate on any kind of Frontend web dev
+- 🤔 I’m looking for help with any kind of Frontend web dev
 - 😄 Pronouns: He/His/Him
 
 ### Things I code with:
