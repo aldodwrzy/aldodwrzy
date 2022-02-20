@@ -14,7 +14,7 @@
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-BLUE?style=flat-square&logo=HTML&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-ORANGE?style=flat-square&logo=CSS&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP?style=flat-square&logo=PHP&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-BLUE?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-9C27B0?style=flat-square&logo=mysql&logoColor=white" />
