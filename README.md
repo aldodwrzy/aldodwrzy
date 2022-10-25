@@ -16,6 +16,8 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-ORANGE?style=flat-square&logo=CSS&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-BLUE?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-F7DF1E?style=flat-square&logo=C++&logoColor=white" />
   
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-9C27B0?style=flat-square&logo=mysql&logoColor=white" />
   
