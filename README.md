@@ -21,6 +21,7 @@
   
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-00C7B7?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-430098?style=flat-square&logo=Codeigniter&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-430098?style=flat-square&logo=React&logoColor=white" />
   
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
