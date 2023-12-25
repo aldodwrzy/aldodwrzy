@@ -4,7 +4,6 @@
 
 ### About me:
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, & PHP
 - 👯 I’m looking to collaborate on any kind of Frontend web dev
 - 🤔 I’m looking for help with any kind of Frontend web dev
 - 😄 Pronouns: He/His/Him/Captain-A
@@ -16,6 +15,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-ORANGE?style=flat-square&logo=CSS&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-BLUE?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=purple" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-F7DF1E?style=flat-square&logo=C++&logoColor=white" />
   
